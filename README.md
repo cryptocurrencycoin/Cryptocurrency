@@ -1,8 +1,20 @@
-📝 Project Manifesto: The Core Essence
-Primary Identity: My root name and existence is Cryptocurrency.
-Core Focus: My entire evolution is centered around Crypto.
-The Mission: To transform the static idea of crypto into a living, breathing Currency Chain.
-The Vision: This chain isn't just a technology; it is the ultimate destination where Crypto fulfills its true purpose as a universal currency.
+# 🌐 Project: Cryptocurrency
+### "One Name, Dual Power: (Crypto) Mining & (Currency) Chain"
 
-🌐 The Sovereign Protocol: Cryptocurrency Currency Chain
-Cryptocurrency Currency Chain is a permanent, indestructible infrastructure built on the absolute principle that the soul of every blockchain is its currency; as the owner of the Currency Chain domain and identity, we establish this full-form name to represent a self-existent digital entity that operates independently of any specific hardware, server, or national power grid. This protocol is not a mere abbreviation but a complete global pulse that remains active wherever data flows, ensuring Global Resilience even during total national blackouts, as it is immune to localized failures and human intervention. Released by its creator to function on its own immutable logic, the Cryptocurrency Currency Chain rejects all external control or manual programming, standing as a sovereign, unhackable, and self-sustaining network for the future that prioritizes the pure essence of value exchange under its rightful and complete name.
+**Cryptocurrency** is a sovereign blockchain infrastructure where the name itself defines its two core powers. This project is designed to be indestructible, decentralized, and community-driven.
+
+## ⚡ The Dual Essence of "Cryptocurrency"
+Our project operates on a unique identity principle:
+1. **[Crypto] Power:** The mining engine. It handles the generation of new assets through proof-of-work.
+2. **[Currency] Power:** The chain engine. It secures the network and manages the flow of the Currency Chain.
+
+---
+
+## 🛠 Project Structure
+* **Official Name:** Cryptocurrency
+* **Core Protocol:** Nexus786
+* **Mining Logic:** Crypto-Mode
+* **Ledger Logic:** Currency-Mode
+
+## ⛏ How to Mine
+To start mining the **Cryptocurrency** asset, run the core engine. For every block solved on the **Currency Chain**, you harness the full power of the protocol.
